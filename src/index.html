@@ -8,36 +8,65 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,400,400i,600i,700&display=swap" rel="stylesheet">
 </head>
 
+
 <body>
-    <h1>Liza Star</h1>
-    <nav class="navbar">
-        <ul id="navLinks">
-            <li><a href="#bioPage">Bio</a></li>
-            <li><a href="#technologiesPage">Technologies</a></li>
-            <li><a href="#projectsPage">Projects</a></li>
-          </ul>
-        </nav>
-        <div class="fullPage" id="bioPage">
-            After 8 years in the classroom teaching 4th - 6th graders, I am ready to change fields and get into web development. So far, I have enjoyed challenging my brain to think in new ways!  With web developement, there are endless possibilities!
+  <nav class="navbar navbar-expand-lg navbar-light bg-light col-12">
+    <img src="https://i.imgur.com/EqiKQ6T.jpg?1" id="bioPhoto" alt="Photo of Liza Star">
+    <a class="navbar-brand mx-2" href="#">LIZA STAR</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-md-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#bioPage">Bio <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#technologiesUsed">TECHnologies</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#projectsPage">Projects</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  
+    <div class="fullPage" id="bioPage">
+       <div class="card-body-about">
+        <h2 class="card-title text-center">ABOUT ME</h2>
+        <p class="card-text">I am what they call a Nashville unicorn.  Being born and raised in Nashville has now become one of my claim to fames.  After teaching for eight years, I decided it was time for a career shift. I have always had an interest in technology, especially how it can benefit the education world so I decided to look for a program to learn software and web development. I am interested in learning how I can use technology to solve problems in many different settings. Software development excites me because it can be a mix of creativity, problem solving, working and collaborating with others and working individually to achieve personal success. So far, I have enjoyed challenging my brain to think in new ways!  With web developement, there are endless possibilities!</p>
+          <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+    </div>
+    
+    <div class="fullPage" id="technologiesUsed">
+      <h2 class="card-title-tech align-content-center col-12"><span> TECHNOLOGY </span></h2>
+      <div class="technology-container">
+        <ul>
+            <img id="html" class= "techImages" src="https://i.imgur.com/Dt4Q6a5.jpg?1" alt="">
+            <p>HTML</p>
+            <img id="html" class= "techImages" src="https://i.imgur.com/5vroYLz.png?1" alt="">
+            <p>CSS</p>
+            <img id="html" class= "techImages" src="https://i.imgur.com/Wi1ILFO.png?1" alt="">
+            <p>JAVASCRIPT</p>
+            <img id="html" class= "techImages" src="https://i.imgur.com/fpQvrD0.jpg?1" alt="">
+            <p>SASS</p>
+            <img id="html" class= "techImages" src="https://i.imgur.com/GFzGIPG.jpg?1" alt="">
+            <p>GitBash</p>
+            <img id="html" class= "techImages" src="https://i.imgur.com/BQvnsSg.jpg?1" alt="">
+            <p>GITHUB</p>
+            <img id="html" class= "techImages" src="https://i.imgur.com/gueiYsW.png?1" alt="">
+            <p>FIREBASE</p>
+        </ul>
+      </div>
         </div>
-        <div class="fullPage" id="technologiesPage">
-            <ul>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>Basic JS</li>
-                <li>GitHub</li>
-                <li>GitBash and Branching</li>
-            </ul>
-        </div>
-        <div class="fullPage" id="projectsPage"></div>
-        <!-- End Primary View -->
-      
-        <!-- Footer -->
-        <footer class="page-footer">
+    <div class="fullPage projects" id="projectsPage"></div>
+
+    <footer class="contact col-12 text-center">
             <h4> Contact me:</h4> 
-                Email: "lizadstar18@gmail.com"
-                GitHub: "lstar18"
-        </footer>
-        <!-- End Footer --> 
+            <i class="far fa-envelope"></i> lizadstar18@gmail.com 
+            <i class="fab fa-github-square"></i> lstar18        
+    </footer>
+
 </body>
 </html>

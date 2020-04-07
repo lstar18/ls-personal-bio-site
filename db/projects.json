@@ -1,0 +1,52 @@
+{
+	"project1": {
+		"title": "Chatty Messaging App",
+		"screenshot": "https://i.imgur.com/ETNGSJ0.png",
+		"description": "This group project allows users to post a message to message app called Chatty.  The user can select his or her name and then type a message into an input box.  When the message appears in the chat, the users name appears with a specific color, the timestamp, and a like and dislike button.  The user also has the option to include certain emojis in his or her message.  There is an option to delete each message as well as clear the page.  There is a maximum of 20 messages that can appear on the screen",
+		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
+		"available": true,
+		"url": "https://chatty-messaging-app.web.app",
+		"githubUrl": "https://github.com/lstar18/chatty-venus-fly-traps",
+		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
+	},
+	"project2": {
+		"title": "Pinterest",
+		"screenshot": "https://i.imgur.com/IDErsTo.png",
+		"description": "This project allows the users to see boards they have created with pins attached to each board.  A user can see all of their boards or view single board.  They can also delete their boards or delete a single pin off of a board.",
+		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
+		"available": true,
+		"url": "https://pinterest-45902.web.app",
+		"githubUrl": "https://github.com/lstar18/pinterest",
+		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
+	},
+	"project3": {
+		"title": "Tamagotchi",
+		"screenshot": "https://i.imgur.com/jMlbB9B.png",
+		"description": "This project allows users to interact with the 90s favorite pocket pet, the Tamagotchi. There are four different activities to do when interacting including giving the Tamagotchi food, fighting, sleeping, and playing. Depending on the type of activity the users chooses to do, the tamagotchi's score will decrease or increase.",
+		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
+		"available": true,
+		"url": "https://tamagotchi-8b648.web.app",
+		"githubUrl": "https://github.com/lstar18/tamagotchi",
+		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
+	},
+	"project4": {
+		"title": "Cool Project",
+		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+		"description": "This is the best project",
+		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
+		"available": false,
+		"url": "https://github.com/lstar18/tamagotchi",
+		"githubUrl": "https://github.com/lstar18/tamagotchi",
+		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
+	},
+	"project5": {
+		"title": "Cool Project",
+		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+		"description": "This is the best project",
+		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
+		"available": false,
+		"url": "https://github.com/nss-evening-cohort-8/js-part-deux",
+		"githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux",
+		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
+	}
+}
