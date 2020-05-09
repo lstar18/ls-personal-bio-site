@@ -3,7 +3,7 @@
 		"title": "Chatty Messaging App",
 		"screenshot": "https://i.imgur.com/ETNGSJ0.png",
 		"description": "This group project allows users to post a message to message app called Chatty.  The user can select his or her name and then type a message into an input box.  When the message appears in the chat, the users name appears with a specific color, the timestamp, and a like and dislike button.  The user also has the option to include certain emojis in his or her message.  There is an option to delete each message as well as clear the page.  There is a maximum of 20 messages that can appear on the screen",
-		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
+		"technologiesUsed": "HTML, CSS, SCSS, ES6 JavaScript, Version Control with Github",
 		"available": true,
 		"url": "https://chatty-messaging-app.web.app",
 		"githubUrl": "https://github.com/lstar18/chatty-venus-fly-traps",
@@ -13,7 +13,7 @@
 		"title": "Pinterest",
 		"screenshot": "https://i.imgur.com/IDErsTo.png",
 		"description": "This project allows the users to see boards they have created with pins attached to each board.  A user can see all of their boards or view single board.  They can also delete their boards or delete a single pin off of a board.",
-		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
+		"technologiesUsed": "HTML, CSS, SCSS, Bootstrap, ES6 JavaScript, Firebase, Version Control with Github",
 		"available": true,
 		"url": "https://pinterest-45902.web.app",
 		"githubUrl": "https://github.com/lstar18/pinterest",
@@ -30,10 +30,10 @@
 		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
 	},
 	"project4": {
-		"title": "Cool Project",
-		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
-		"description": "This is the best project",
-		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
+		"title": "Renaissance Faire",
+		"screenshot": "https://i.imgur.com/zH559G7.png",
+		"description": "This project allows the owners of a company that run Renaissance Faires across the country to see the status of their faires.  They are able to see what food products, souvenirs, staff and shows are available at each fair.  They are able to add, edit and delete information to the page when they are logged in. ",
+		"technologiesUsed": "HTML, CSS, SCSS, Bootstrap, ES6 JavaScript, Firebase, Version Control with Github",
 		"available": false,
 		"url": "https://github.com/lstar18/tamagotchi",
 		"githubUrl": "https://github.com/lstar18/tamagotchi",
@@ -45,8 +45,8 @@
 		"description": "This is the best project",
 		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
 		"available": false,
-		"url": "https://github.com/nss-evening-cohort-8/js-part-deux",
-		"githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux",
+		"url": "https://nutshell-sithlords.web.app/",
+		"githubUrl": "https://github.com/lstar18/nutshell-sithlords",
 		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
 	}
 }
