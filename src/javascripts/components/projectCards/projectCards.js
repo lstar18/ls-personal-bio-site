@@ -9,7 +9,7 @@ const createProjectCards = () => {
     let domString = '';
     projects.forEach((project) => {
       if (project.available !== false) {
-        domString += '<div class="card d-flex flex-wrap">';
+        domString += '<div class="card col-3">';
         domString += `<img class="card-img-top" src="${project.screenshot}" alt="Card image cap">`;
         domString += '<div class="card-body">';
         domString += `<h2 class="card-title">${project.title}</h2>`;

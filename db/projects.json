@@ -2,13 +2,12 @@
 	"project1": {
 		"title": "Chatty Messaging App",
 		"screenshot": "https://i.imgur.com/ETNGSJ0.png",
-		"description": "This group project allows users to post a message to message app called Chatty.  The user can select his or her name and then type a message into an input box.  When the message appears in the chat, the users name appears with a specific color, the timestamp, and a like and dislike button.  The user also has the option to include certain emojis in his or her message.  There is an option to delete each message as well as clear the page.  There is a maximum of 20 messages that can appear on the screen",
+		"description": "This group project allows users to post a message to a messaging app called Chatty.  The user can select his or her name and then type a message into an input box.  When the message appears in the chat, the users name appears with a specific color, the timestamp, and a like and dislike button.  The user also has the option to include certain emojis in his or her message.  There is an option to delete each message as well as clear the page.  There is a maximum of 20 messages that can appear on the screen",
 		"technologiesUsed": "HTML, CSS, SCSS, ES6 JavaScript, Version Control with Github",
 		"available": true,
 		"url": "https://chatty-messaging-app.web.app",
-		"githubUrl": "https://github.com/lstar18/chatty-venus-fly-traps",
-		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
-	},
+		"githubUrl": "https://github.com/lstar18/chatty-venus-fly-traps"
+			},
 	"project2": {
 		"title": "Pinterest",
 		"screenshot": "https://i.imgur.com/IDErsTo.png",
@@ -16,27 +15,24 @@
 		"technologiesUsed": "HTML, CSS, SCSS, Bootstrap, ES6 JavaScript, Firebase, Version Control with Github",
 		"available": true,
 		"url": "https://pinterest-45902.web.app",
-		"githubUrl": "https://github.com/lstar18/pinterest",
-		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
-	},
+		"githubUrl": "https://github.com/lstar18/pinterest"
+			},
 	"project3": {
-		"title": "Tamagotchi",
-		"screenshot": "https://i.imgur.com/jMlbB9B.png",
-		"description": "This project allows users to interact with the 90s favorite pocket pet, the Tamagotchi. There are four different activities to do when interacting including giving the Tamagotchi food, fighting, sleeping, and playing. Depending on the type of activity the users chooses to do, the tamagotchi's score will decrease or increase.",
-		"technologiesUsed": "HTML, CSS, SCSS, Vanilla JavaScript, Version Control with Github",
+		"title": "Mushroom Picker",
+		"screenshot": "https://i.imgur.com/Bi5YU6C.png",
+		"description": "This project was an single page app. It was created for the user to go mushroom picking in a forest. There are different types of mushrooms that cause various things to happen to the users basket. If the user picks a magical mushroom, then they win! If a user gets one non-poisonous, non-deadly or non-magical mushroom in their basket, they can also win that way! If a user picks a poisonous mushroom, two mushrooms in their basket die, and if they pick a deadly mushroom, all mushrooms in their basket die! This project was deployed with Firebase and used technologies such as ES6 modules methods.",
+		"technologiesUsed": "HTML, CSS, SCSS, Bootstrap, React.js, Firebase to Deploy, Version Control with Github",
 		"available": true,
-		"url": "https://tamagotchi-8b648.web.app",
-		"githubUrl": "https://github.com/lstar18/tamagotchi",
-		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
-	},
+		"url": "https://mushroom-picker-e6eeb.web.app",
+		"githubUrl": "https://github.com/lstar18/tamagotchi"
+			},
 	"project4": {
 		"title": "Renaissance Faire",
 		"screenshot": "https://i.imgur.com/zH559G7.png",
 		"description": "This project allows the owners of a company that run Renaissance Faires across the country to see the status of their faires.  They are able to see what food products, souvenirs, staff and shows are available at each fair.  They are able to add, edit and delete information to the page when they are logged in. ",
 		"technologiesUsed": "HTML, CSS, SCSS, Bootstrap, ES6 JavaScript, Firebase, Version Control with Github",
-		"available": false,
-		"url": "https://github.com/lstar18/tamagotchi",
-		"githubUrl": "https://github.com/lstar18/tamagotchi",
-		"uid": "AIzaSyDlg2AMekJ6aWzALfgKYMRiL2mAmqdLpE0"
-}
+		"available": true,
+		"url": "https://nutshell-sithlords.web.app",
+		"githubUrl": "https://github.com/lstar18/nutshell-sithlords"
+		}
 }
