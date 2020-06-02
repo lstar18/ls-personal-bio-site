@@ -1,11 +1,17 @@
-.card {
-	position: relative;
-    display: flex;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-color: #fff;
-    background-clip: border-box;
-    border: 1px solid rgba(0,0,0,0.125);
-		border-radius: .25rem;
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  color: white;
+  background-color: rgb(110, 127, 128);
+  font-size: 20px;
+}
+.card:hover .overlay {
+  opacity: 1;
 }

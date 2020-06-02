@@ -8,6 +8,7 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    background-image: url(https://cdn.wallpapersafari.com/28/19/obxBz5.png);
 }
 
 .card-title-tech {
@@ -24,13 +25,13 @@ body {
 }
 
 .card-body-about {
-    border: lightgray solid 1px;
     margin-top: 5px;
     margin-bottom: 5px;
-    border-radius: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
     color:black;
-    font-size: 20px;
-    background-color: rgba(145, 194, 197, 0.911);
+    font-size: 25px;
+    background-color: rgba(1, 21, 22, 0.568);
 
 }
 
@@ -40,17 +41,25 @@ body {
     align-items: center;
     justify-content: center;
 }
-.biophoto{
-    max-width: 200px;
-    max-height: 200px;
+.biophoto {
+    max-width: 80px;
+    max-height: 80px;
     border: black solid 1px;
-    border-radius: 50%;
+    border-radius: 100%;
     margin-left: 100px;
 }
-.technology-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+.technology {
+
+    .technology-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    
+    .techImages {
+        border: lightgray solid 1px;
+        border-radius: 15px;
+    }
 }
 
 p {
@@ -59,11 +68,11 @@ p {
     justify-content: space-evenly;
 }
 
-.techImages {
-    border: lightgray solid 1px;
-    border-radius: 15px;
-}
+
 
 .projects {
-    background-color:  rgb(110, 127, 128) ;
+    background-color: rgba(1, 21, 22, 0.568);
+    .project-title {
+        color: white;
+    }
 }
