@@ -25,7 +25,7 @@ h1 {
     justify-content: center;
 }
 .navbar-brand {
-    padding-left: 390px;
+    padding-left: 400px;
     font-size: 100px;
 }
 .navbar-nav {
@@ -43,11 +43,8 @@ h1 {
     margin-left: 5px;
     margin-right: 5px;
     color:whitesmoke;
-    font-size: 25px;
     background-color: rgba(1, 21, 22, 0.568);
-    p {
-        padding: 20px;
-    }
+    
     h1 {
         font-size: 60px;
     }
@@ -57,13 +54,18 @@ h1 {
         font-weight: bolder;
         color: whitesmoke;
     }
-    .card-text {
-        font-family: 'Quicksand', sans-serif;
+    
     }
-}
+.card-text {
+    font-family: 'Quicksand', sans-serif;
+    padding: 20px;
+    font-size: 40px;
+    }
+
 .tech-list {
     display: flex;
-    justify-content:space-around;
+    flex-wrap: wrap;
+    justify-content:space-between;
     list-style-type:none;
 }
 .card-title-tech {
@@ -79,10 +81,14 @@ h1 {
        max-width: 100px;
        max-height: 100px;
        border-radius: 50%;
+       margin: 2px;
     }
     .tech-list{
         font-size: 25px;
-    }   
+    }
+    li {
+        margin: 10px;
+    }
 }
 
 .projects {
@@ -100,10 +106,10 @@ h1 {
 .contact-info {
     h1 {
         font-weight: bolder;
-        font-size: 40px;
+        font-size: 50px;
         font-family: 'Quicksand', sans-serif;
     }
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
     font-weight: bolder;
 }
