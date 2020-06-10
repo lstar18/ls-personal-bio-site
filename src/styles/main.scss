@@ -3,7 +3,7 @@
 
 body {
     background-color: white;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -11,29 +11,12 @@ body {
     background-image: url(https://cdn.wallpapersafari.com/28/19/obxBz5.png);
 }
 
-.card-title-tech {
-    font-size: 30px;
+h1 {
+    font-size: 60px;
+    font-weight: bolder;
 }
 
-.contact {
-    h4 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    }
-}
 
-.card-body-about {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 2px;
-    margin-right: 2px;
-    color:black;
-    font-size: 25px;
-    background-color: rgba(1, 21, 22, 0.568);
-
-}
 
 .fullPage {
     display: flex;
@@ -41,38 +24,86 @@ body {
     align-items: center;
     justify-content: center;
 }
-.biophoto {
-    max-width: 80px;
-    max-height: 80px;
-    border: black solid 1px;
-    border-radius: 100%;
-    margin-left: 100px;
+.navbar-brand {
+    padding-left: 390px;
+    font-size: 100px;
 }
-.technology {
-
-    .technology-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
+.navbar-nav {
+    font-size: 35px;
+}
+.bioPhoto {
+    max-width: 100%;
+    height: auto;
+    border-radius: 75%;
+    margin-left: 90px;
+}
+.card-body-about {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color:whitesmoke;
+    font-size: 25px;
+    background-color: rgba(1, 21, 22, 0.568);
+    p {
+        padding: 20px;
+    }
+    h1 {
+        font-size: 60px;
     }
     
-    .techImages {
-        border: lightgray solid 1px;
-        border-radius: 15px;
+    .card-title {
+        font-family: 'Quicksand', sans-serif;
+        font-weight: bolder;
+        color: whitesmoke;
+    }
+    .card-text {
+        font-family: 'Quicksand', sans-serif;
     }
 }
-
-p {
-    margin-top: 0;
-    margin-bottom: 1rem;
-    justify-content: space-evenly;
+.tech-list {
+    display: flex;
+    justify-content:space-around;
+    list-style-type:none;
 }
-
-
+.card-title-tech {
+    font-family: 'Quicksand', sans-serif;
+    color: rgba(1, 21, 22, 0.568);
+    text-align: center;
+    margin-bottom: 5px;
+}
+.technology-container {
+    display: flex;
+    flex-wrap: row;    
+    .techImages {
+       max-width: 100px;
+       max-height: 100px;
+       border-radius: 50%;
+    }
+    .tech-list{
+        font-size: 25px;
+    }   
+}
 
 .projects {
     background-color: rgba(1, 21, 22, 0.568);
     .project-title {
-        color: white;
+        font-family: 'Quicksand', sans-serif;
+        color: whitesmoke;
+        h1 {
+            font-size: 60px;
+            font-weight: bolder;
+        }
     }
+}
+
+.contact-info {
+    h1 {
+        font-weight: bolder;
+        font-size: 40px;
+        font-family: 'Quicksand', sans-serif;
+    }
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
 }
