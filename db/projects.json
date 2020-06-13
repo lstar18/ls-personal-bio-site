@@ -2,7 +2,7 @@
 	"project1": {
 		"title": "Chatty Messaging App",
 		"screenshot": "https://i.imgur.com/ETNGSJ0.png",
-		"description": "This group project allows users to post a message to a messaging app called Chatty.  The user can select his or her name and then type a message into an input box.  When the message appears in the chat, the users name appears with a specific color, the timestamp, and a like and dislike button.  The user also has the option to include certain emojis in his or her message.  There is an option to delete each message as well as clear the page.  There is a maximum of 20 messages that can appear on the screen",
+		"description": "This group project allows users to post a message to a messaging app called Chatty.  The user can select his or her name and then type a message into an input box.  When the message appears in the chat, the users name appears with a specific color, the timestamp, and a like and dislike button.  The user also has the option to include certain emojis in his or her message.  There is an option to delete each message as well as clear the page.  There is a maximum of 20 messages that can appear on the screen.",
 		"technologiesUsed": "HTML, CSS, SCSS, ES6 JavaScript, Version Control with Github",
 		"available": true,
 		"url": "https://chatty-messaging-app.web.app",
