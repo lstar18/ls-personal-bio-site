@@ -32,7 +32,16 @@
 		"description": "This project allows the owners of a company that run Renaissance Faires across the country to see the status of their faires.  They are able to see what food products, souvenirs, staff and shows are available at each fair.  They are able to add, edit and delete information to the page when they are logged in. ",
 		"technologiesUsed": "HTML, CSS, SCSS, Bootstrap, ES6 JavaScript, Firebase, Version Control with Github",
 		"available": true,
-		"url": "https://nutshell-sithlords.web.app",
+		"url": " ",
 		"githubUrl": "https://github.com/lstar18/nutshell-sithlords"
-		}
+		},
+		"project5": {
+			"title": "Busy Baby",
+			"screenshot": "https://res.cloudinary.com/daefku652/image/upload/v1601745261/Busy_Baby_ss_me0rgm.png",
+			"description": " BusyBaby is created for parents who want to keep track of their child's milestones, but don't want to spend time putting together a baby book that will eventually sit on a shelf.  BusyBaby allows the user to create children and then view, add, edit, and delete milestones for each child created on your profile!",
+			"technologiesUsed": "HTML, CSS, SCSS, Bootstrap, ES6 JavaScript with React.Js Framework, Firebase, Version Control with Github",
+			"available": true,
+			"url": "https://busybaby-c7434.firebaseapp.com/auth",
+			"githubUrl": "https://github.com/lstar18/BusyBaby"
+			}
 }
